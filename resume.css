@@ -664,6 +664,12 @@ html {
 
 /* ================= EDUCATION ================= */
 
+.education-left .title-line,
+.education-right .title-line{
+    margin-left: 0;
+    margin-right: auto;
+}
+
 .education-section {
   width: 85%;
   margin: 100px auto;
