@@ -451,7 +451,7 @@ html {
   height: 4px;
   background: #ff4b6e;
   border-radius: 20px;
-  margin: 15px 0 40px;
+  margin: 15px auto 40px auto;
 }
 
 .skills-container {
